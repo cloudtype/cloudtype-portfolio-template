@@ -1,0 +1,17 @@
+{
+  "intro": "안녕하세요",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Gatsby로 만든 포트폴리오 페이지 예시입니다.",
+  "subtitle": {
+    "prefix": "가장 쉬운 배포, 바로 ",
+    "highlight": "클라우드타입에서",
+    "suffix": "."
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

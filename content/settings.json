@@ -1,0 +1,42 @@
+{
+  "siteMetadata": {
+    "language": "ko",
+    "siteUrl": "",
+    "title": "Gatsby Portfolio Sample",
+    "titleTemplate": "%s · Portfolio",
+    "description": "A Gatsby Portfolio Sample",
+    "author": "KYEONGMIN CHO",
+    "avatar": "../content/images/ggingmin_mimoji.png",
+    "bio": "클라우드타입 입니다.",
+    "social": {
+      "github": "https://github.com/ggingmin",
+      "medium": "https://ggingmin.medium.com",
+      "linkedin": "https://www.linkedin.com/in/ggingmin/",
+      "mail": "mailto:ggingmin@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "입력해주세요" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Features", "url": "/#features" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "서비스 소개",
+        "url": "/cloudtype_intro.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

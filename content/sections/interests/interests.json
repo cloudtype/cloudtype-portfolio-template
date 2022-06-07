@@ -1,0 +1,51 @@
+{
+  "interests": [
+    {
+      "label": "빠르고 손쉬운 세팅",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "친절한 가이드",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "간결한 사용자 경험",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "다양한 언어 및 템플릿",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "모바일 환경 완벽 지원",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "빠른 배포 속도",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

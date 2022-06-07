@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ ONE-STOP",
+      "title": "세상에서 제일 쉬운 배포",
+      "description": "원클릭 배포 후 커스텀 도메인 연결까지 한 번에!",
+      "tags": ["배포", "도메인 연결"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "deployment",
+        "linkTo": "https://github.com/ggingmin/portfolio-sample.git"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ggingmin/portfolio-sample"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 REASONABLE",
+      "title": "부담스러운 호스팅 비용에서 해방",
+      "description": "합리적인 가격으로 서비스를 온 세상에!",
+      "tags": ["구독"],
+      "image": {
+        "src": "../../images/payment_1.jpg",
+        "alt": "payment"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ggingmin/portfolio-sample"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "클라우드타입으로 이동",
+    "url": "https://cloudtype.io/"
+  }
+}

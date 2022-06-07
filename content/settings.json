@@ -7,7 +7,7 @@
     "description": "A Gatsby Portfolio Sample",
     "author": "KYEONGMIN CHO",
     "avatar": "../content/images/ggingmin_mimoji.png",
-    "bio": "클라우드타입 입니다.",
+    "bio": "클라우드타입 소개 페이지입니다.",
     "social": {
       "github": "https://github.com/ggingmin",
       "medium": "https://ggingmin.medium.com",
@@ -19,9 +19,9 @@
     "logo": { "text": "입력해주세요" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" }
+        { "label": "소개", "url": "/#about" },
+        { "label": "블로그", "url": "/blog" },
+        { "label": "주요 기능", "url": "/#features" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -29,8 +29,7 @@
         "url": "/cloudtype_intro.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {

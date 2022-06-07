@@ -1,0 +1,29 @@
+diff --git a/node_modules/gatsby-theme-portfolio-minimal/src/templates/Article/index.tsx b/node_modules/gatsby-theme-portfolio-minimal/src/templates/Article/index.tsx
+index 464c385..5167695 100644
+--- a/node_modules/gatsby-theme-portfolio-minimal/src/templates/Article/index.tsx
++++ b/node_modules/gatsby-theme-portfolio-minimal/src/templates/Article/index.tsx
+@@ -24,7 +24,7 @@ export default function ArticleTemplate(props: ArticleTemplateProps): React.Reac
+                     <div className={classes.Breadcrumb}>
+                         <Link to={props.pageContext.listingPagePath} title="Back To Article Listing">
+                             <span className={classes.BackArrow}>&#10094;</span>
+-                            All Articles
++                            모든 글
+                         </Link>
+                     </div>
+                     <section className={classes.Header}>
+diff --git a/node_modules/gatsby-theme-portfolio-minimal/src/templates/ArticleListing/index.tsx b/node_modules/gatsby-theme-portfolio-minimal/src/templates/ArticleListing/index.tsx
+index ef8f410..1e04610 100644
+--- a/node_modules/gatsby-theme-portfolio-minimal/src/templates/ArticleListing/index.tsx
++++ b/node_modules/gatsby-theme-portfolio-minimal/src/templates/ArticleListing/index.tsx
+@@ -59,9 +59,9 @@ export default function ArticleListingTemplate(props: ArticleListingTemplateProp
+         <>
+             <Seo title="All Articles" useTitleTemplate={true} />
+             <Page>
+-                <Section anchor="articleListing" heading="Articles">
++                <Section anchor="articleListing" heading="글 모아보기">
+                     <div className={classes.Filter}>
+-                        Select categories to filter articles
++                        카테고리 필터를 설정해주세요.
+                         <Slider additionalClasses={[classes.Options]}>
+                             {filterOptions.map((option, key) => {
+                                 return (

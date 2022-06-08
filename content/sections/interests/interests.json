@@ -15,7 +15,7 @@
       }
     },
     {
-      "label": "간결한 사용자 경험",
+      "label": "간단한 사용 방법",
       "image": {
         "src": "../../images/nail-polish.png",
         "alt": ""
@@ -39,6 +39,27 @@
       "label": "빠른 배포 속도",
       "image": {
         "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "안정적이고 견고한 서비스",
+      "image": {
+        "src": "../../images/mountain.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "팀 프로젝트로 효율적인 작업",
+      "image": {
+        "src": "../../images/dizzy.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "별도 설정파일 없이 소스 배포",
+      "image": {
+        "src": "../../images/hundred-points.png",
         "alt": ""
       }
     }

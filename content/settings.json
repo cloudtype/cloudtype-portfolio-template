@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "ko",
     "siteUrl": "",
-    "title": "Gatsby Portfolio Sample",
+    "title": "Gatsby 포트폴리오",
     "titleTemplate": "%s · Portfolio",
     "description": "A Gatsby Portfolio Sample",
     "author": "KYEONGMIN CHO",
@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "입력해주세요" },
+    "logo": { "text": "포트폴리오" },
     "navigation": {
       "header": [
         { "label": "소개", "url": "/#about" },
@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "서비스 소개",
-        "url": "/cloudtype_intro.pdf"
+        "url": "/cloudtype.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" }

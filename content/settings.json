@@ -2,10 +2,10 @@
   "siteMetadata": {
     "language": "ko",
     "siteUrl": "",
-    "title": "Gatsby 포트폴리오",
-    "titleTemplate": "%s · CLOUDTYPE",
-    "description": "CLOUDTYPE",
-    "author": "KYEONGMIN CHO",
+    "title": "CLOUDTYPE · 클라우드타입",
+    "titleTemplate": "CLOUDTYPE · 클라우드타입",
+    "description": "CLOUDTYPE · 클라우드타입",
+    "author": "CLOUDTYPE Inc.",
     "avatar": "../content/images/ggingmin_mimoji.png",
     "bio": "클라우드타입 소개 페이지입니다.",
     "social": {

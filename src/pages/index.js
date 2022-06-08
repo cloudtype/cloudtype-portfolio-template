@@ -11,7 +11,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="CLOUDTYPE" />
+      <Seo title="CLOUDTYPE · 클라우드타입" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="개발자를 위한, 최고의 선택" />

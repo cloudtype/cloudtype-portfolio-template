@@ -9,9 +9,10 @@
     "avatar": "../content/images/ggingmin_mimoji.png",
     "bio": "클라우드타입 소개 페이지입니다.",
     "social": {
-      "github": "https://github.com/ggingmin",
-      "medium": "https://ggingmin.medium.com",
-      "linkedin": "https://www.linkedin.com/in/ggingmin/",
+      "github": "https://cloudtype.io/",
+      "medium": "https://cloudtype.io/",
+      "linkedin": "https://cloudtype.io/",
+      "twitter": "https://twitter.com/cloudtypeinc",
       "mail": "mailto:ggingmin@gmail.com"
     }
   },
